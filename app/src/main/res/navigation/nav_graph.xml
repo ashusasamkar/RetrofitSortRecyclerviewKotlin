@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/nav_graph"
+    app:startDestination="@id/storeFragment">
+
+    <fragment
+        android:id="@+id/storeFragment"
+        android:name="ash.sasamkar.plobaltask.fragment.StoreFragment"
+        android:label="store_fragment"
+        tools:layout="@layout/store_fragment" />
+</navigation>

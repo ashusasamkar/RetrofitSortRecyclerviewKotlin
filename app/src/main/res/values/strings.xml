@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">PlobalTask</string>
+    <string name="action_downloads">Downloads</string>
+    <string name="action_session">Session</string>
+    <string name="action_totalSale">Total Sale</string>
+    <string name="action_addToCart">Add to Cart</string>
+</resources>
